@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let array = new Array(2, 6, -9, 11, 30, -20, 16);
+    let x1 = 11;
+    let x2 = 5;
+
+    function tryRemoveFromArray(arr,x) {
+        for ( let i = 0; i < arr.length; i++){
+            if(arr[i] === x){
+                arr.splice(i, 1);
+            }
+        }
+        return arr;
+    }
+    document.write(tryRemoveFromArray(array,x1));
+</script>
+</body>
+</html>
