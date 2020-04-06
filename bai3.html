@@ -2,9 +2,29 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>bai3</title>
 </head>
 <body>
-$END$
+<script>
+    let a = false;
+    function fibonacci(n) {
+        if (n <= 1) return 1;
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+
+    function isFibonacci(n) {
+        for (let i = 0; i <= n; i++ ){
+            if (n === fibonacci(i)){
+                a = true;
+            }
+        }
+        if (a){
+            document.write("so " + n + " nam trong day fibonacci");
+        }else document.write("so " + n + " KHONG nam trong day fibonacci");
+    }
+
+    let n = parseInt(prompt("Nhap 1 so nguyen n: "));
+    isFibonacci(n);
+</script>
 </body>
 </html>

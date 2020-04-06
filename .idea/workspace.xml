@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301a47bb-4e5a-44a4-94fd-08404ee9103b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exam.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +42,24 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.bai2.html">
+  <component name="RunManager" selected="JavaScript Debug.bai3.html">
     <configuration name="bai1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exam/bai1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="bai2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exam/bai2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="bai3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exam/bai3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bai4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/exam/bai4.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.bai3.html" />
         <item itemvalue="JavaScript Debug.bai2.html" />
+        <item itemvalue="JavaScript Debug.bai4.html" />
         <item itemvalue="JavaScript Debug.bai1.html" />
       </list>
     </recent_temporary>
@@ -69,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586159077214</updated>
-      <workItem from="1586159078587" duration="1791000" />
+      <workItem from="1586159078587" duration="3840000" />
     </task>
     <servers />
   </component>

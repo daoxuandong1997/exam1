@@ -7,8 +7,7 @@
 <body>
 <script>
     let array = new Array(2, 6, -9, 11, 30, -20, 16);
-    let x1 = 11;
-    let x2 = 5;
+    let x = parseInt(prompt("Nhap mot so nguyen bat ky: "));
 
     function tryRemoveFromArray(arr,x) {
         for ( let i = 0; i < arr.length; i++){
@@ -18,7 +17,7 @@
         }
         return arr;
     }
-    document.write(tryRemoveFromArray(array,x1));
+    document.write(tryRemoveFromArray(array,x));
 </script>
 </body>
 </html>
